@@ -24,7 +24,6 @@
     <ProjectGuid>{94e9291a-79b9-4b34-b619-d09c6c506f04}</ProjectGuid>
     <RootNamespace>BadMath</RootNamespace>
     <WindowsTargetPlatformVersion>10.0</WindowsTargetPlatformVersion>
-    <ProjectName>GoodMath</ProjectName>
   </PropertyGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.Default.props" />
   <PropertyGroup Condition="'$(Configuration)|$(Platform)'=='Debug|Win32'" Label="Configuration">
